@@ -1,6 +1,6 @@
-A [b]Mechanical Heart [/b]and [b]Omnitask Studio [/b]production.
+[color=#ffffff]A [b]Mechanical Heart [/b]and [b]Susuubi [/b]production.[/color]
 
-This is a prototype game developed for the [url=https://itch.io/jam/mini-jame-gam-9][b][i][color=#000000]Mini [/color][color=#2ecc40]J[/color][color=#005dc2]a[/color][color=#9a00b2]m[/color][color=#ff851b]e[/color] [color=#9a00b2]G[/color][color=#00369b]a[/color][color=#005dc2]m[/color][color=#000000] #9[/color][/i][/b][/url][i][color=#000000].[/color][/i]
+[color=#ffffff]This is a prototype game developed for the [/color][url=https://itch.io/jam/mini-jame-gam-9][b][i][color=#ffffff]Mini [/color][color=#2ecc40]J[/color][color=#005dc2]a[/color][color=#9a00b2]m[/color][color=#ff851b]e[/color] [color=#9a00b2]G[/color][color=#00369b]a[/color][color=#005dc2]m[/color][color=#ffffff] #9[/color][/i][/b][/url][color=#ffffff][i].[/i][/color]
 
-Coding by [b]Celestin Albers[/b] 
-Artwork created by [b]Samsara Wiropranoto[/b]
+[color=#ffffff]Coding by [b]Celestin Albers[/b] [/color]
+[color=#ffffff]Artwork created by [b]Susuubi[/b][/color]
